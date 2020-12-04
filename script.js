@@ -80,6 +80,8 @@ $('.Mallu').attr('src', mal);
 $('.Anjali').attr('src', an);
 });
 
+$(".transcript).window.location.replace("https://mayameapen123.github.io/convo2.github.io/");
+  $(".convo).window.location.replace("https://mayameapen123.github.io/Convoabout.github.io/");
 
 
 
